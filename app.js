@@ -1,2 +1,2 @@
 console.log("Hola GitHub VSC");
-console.log("Comienzan las pruebas JS")
+console.log("Comienzan las pruebas JS");
